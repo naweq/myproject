@@ -1,0 +1,38 @@
+# ============================================================
+# requirements.txt — основной бот (SenderX)
+# Установка: pip install -r requirements.txt
+# ============================================================
+
+# Telegram Bot Framework
+aiogram==3.15.0
+
+# Telegram клиент (сессии аккаунтов)
+hydrogram
+telethon==1.36.0
+
+# TData конвертер
+opentele==1.15.1
+
+# Crypto платежи
+aiocryptopay
+
+# База данных
+aiosqlite==0.20.0
+
+# Async файлы
+aiofiles==24.1.0
+
+# QR коды (для QR авторизации)
+qrcode[pil]==8.0
+
+# HTTP запросы
+requests==2.32.3
+
+# ============================================================
+# requirements-panel.txt — панельный бот (admin panel)
+# Установка: pip install -r requirements-panel.txt
+# ============================================================
+# aiogram==3.15.0
+# aiosqlite==0.20.0
+# psutil==6.1.1j
+

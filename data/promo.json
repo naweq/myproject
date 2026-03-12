@@ -1,0 +1,545 @@
+{
+  "HDVJ": {
+    "reward": "3_days",
+    "max_uses": 2,
+    "remaining": 2,
+    "created_at": "2026-02-21",
+    "used_by": []
+  },
+  "L74ZCR": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 0,
+    "created_at": "2026-02-21",
+    "used_by": [
+      8142259218
+    ]
+  },
+  "GPETHQ": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-21",
+    "used_by": []
+  },
+  "W8Z4T1": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-21",
+    "used_by": []
+  },
+  "HP1U9M": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-21",
+    "used_by": []
+  },
+  "1EO06X": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-21",
+    "used_by": []
+  },
+  "QA0KG2": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "XZBTJA": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "KFA8OK": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "0QHRI5": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "L1T4PK": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "V88T8F": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "VY8J5U": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "WHBGTT": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "7JJ4MV": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "5UC0FS": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "MRQNQ0": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "JGCZ6W": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "GSL4Q0": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "OD67B4": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "181QPA": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "FHQR5B": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "8EIL3D": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "7WWVTB": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "PI7PJJ": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "DEXYKI": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "9RAOU3": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "CLQGAO": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "5LYM7Z": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "PA5I39": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "X3LX3C": {
+    "reward": "3_days",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "96WBPE": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "QPICS3": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "9G9HHZ": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "4SC172": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "SFUK6I": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "71PEGU": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "ZPAMVD": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "16CXPS": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "5ZK1YN": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "JXKRHW": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "R5T808": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "A0ODOS": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "8O12ZS": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "CADJG7": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "IH5K01": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "XZ6ZS7": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "D73VTS": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "CEI5QQ": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "CE0KN6": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "PGM07U": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "RQSS1Z": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "SGSJ96": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "LNC14B": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "J0Y4MN": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "QTUFXP": {
+    "reward": "week",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "AZID4L": {
+    "reward": "month",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "Q9K0EI": {
+    "reward": "month",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "V3WR48": {
+    "reward": "month",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "W6YVVC": {
+    "reward": "month",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "FX9IEV": {
+    "reward": "month",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "2PHBY2": {
+    "reward": "month",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "0HYTMU": {
+    "reward": "month",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "GG6FM6": {
+    "reward": "month",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "H7RORS": {
+    "reward": "month",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "C0E1ON": {
+    "reward": "month",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "5R5DFC": {
+    "reward": "forever",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "UZYLFY": {
+    "reward": "forever",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "20U43X": {
+    "reward": "forever",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "S2L2AN": {
+    "reward": "forever",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "KB9GD0": {
+    "reward": "forever",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "Q79YQZ": {
+    "reward": "forever",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "VG4WLM": {
+    "reward": "forever",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "CK8QU2": {
+    "reward": "forever",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "FD0THD": {
+    "reward": "forever",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "NS468T": {
+    "reward": "forever",
+    "max_uses": 1,
+    "remaining": 1,
+    "created_at": "2026-02-22",
+    "used_by": []
+  },
+  "ZHSXL": {
+    "reward": "3_days",
+    "max_uses": 80,
+    "remaining": 79,
+    "created_at": "2026-03-10",
+    "used_by": [
+      7189513332
+    ]
+  }
+}
